@@ -9,5 +9,5 @@ I created this for my University coursework.
 ```bash
   git clone https://github.com/syscrafts/openredirectvalidator.git
   cd openredirectvalidator
-  python3 openredirectvalidatore.py
+  python3 openredirectvalidator.py
 ```
